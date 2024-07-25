@@ -16,6 +16,6 @@
   cursor: pointer;
 }
 
-.send-btn[disabled] {
+.send-btn.disabled {
   background-color: rgba(0, 0, 0, .1);
 }

@@ -1,6 +1,6 @@
 # Getting Started
 
-一个简单的基于[开源免费模型](https://openrouter.ai/)的AI聊天对话项目
+一个简单的基于[开源免费模型](https://openrouter.ai/)的AI聊天对话应用
 
 ## Running Steps
 
